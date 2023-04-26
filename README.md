@@ -5,17 +5,28 @@ Node.js and npm installed on your machine.
 
 Setup
 Download or clone the repository where the App.js file is located.
+
 Open a terminal window and navigate to the directory where the App.js file is located.
+
 Run npm install command to install the project dependencies.
+
 Running the Project
+
 Once the dependencies are installed, run npm start command to start the development server.
+
 The project will open in a new browser window at http://localhost:3000/.
+
 Click on the Fetch Metadata button to fetch the input fields metadata from the API.
+
 Fill out the form and click on the Predict Drink Choice button to make a prediction.
+
 Check the browser console to see the API response and prediction results.
+
 Click on the Batch Prediction button to make batch predictions.
+
 Check the browser console to see the API response and prediction results.
 Note
+
 Make sure to replace the API_URL, MODEL_ID and ACCESS_TOKEN with your own values if you want to use this code with your own API.
 
 
